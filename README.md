@@ -11,7 +11,7 @@ There are two main components involved in the proposed toolkit - Binning algorth
 
 ## Setup Instructions
 
-Refer to Setup.md for details for installing the required libraries for the toolkit and execution of the toolkit 
+Refer to setup instructions for details for installing the required libraries for the toolkit and execution of the toolkit 
 
 ## Data Visualizations
 
